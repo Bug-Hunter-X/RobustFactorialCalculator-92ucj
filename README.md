@@ -1,0 +1,1 @@
+This repository contains a Hack program demonstrating a common error in recursive function handling. The program showcases an incorrect handling of negative input in a factorial function. The solution addresses this issue by adding appropriate input validation and error handling.
